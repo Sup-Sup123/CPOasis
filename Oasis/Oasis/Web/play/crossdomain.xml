@@ -3,11 +3,11 @@
 <cross-domain-policy>
 	
 	<!-- Production/Live -->
-	<allow-access-from domain="*.oasis.ps" to-ports="*" />
+	<allow-access-from domain="*.cpoasis.tk" to-ports="*" />
   
 	<!--Development/Testing -->
-	<allow-access-from domain="*.oasis.private" to-ports="*" />
-	<allow-access-from domain="oasis" to-ports="*" />
+	<allow-access-from domain="*.cpoasis.private" to-ports="*" />
+	<allow-access-from domain="cpoasis" to-ports="*" />
   
 </cross-domain-policy>
 <!-- /oasis/website/trunk/global/crossdomain.xml -->
