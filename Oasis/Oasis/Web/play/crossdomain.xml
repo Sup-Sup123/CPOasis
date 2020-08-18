@@ -10,4 +10,4 @@
 	<allow-access-from domain="cpoasis" to-ports="*" />
   
 </cross-domain-policy>
-<!-- /oasis/website/trunk/global/crossdomain.xml -->
+<!-- /cpoasis/website/trunk/global/crossdomain.xml -->
